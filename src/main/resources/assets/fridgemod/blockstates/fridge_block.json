@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "fridgemod:block/fridge_block" }
+  }
+}
